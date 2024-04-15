@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T04:01:30.718Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="BrZcmaw2sebrvWVXwTp5" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-15T06:51:08.790Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="dDXOFYph2eh807-Zs1Gj" version="23.1.5" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
-    <mxGraphModel dx="1591" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="928" dy="465" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,7 +9,7 @@
             <mxRectangle x="90" y="83" width="110" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="78961159f06e98e8-21" value="功能1.信息收集" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="78961159f06e98e8-17" vertex="1">
+        <mxCell id="78961159f06e98e8-21" value="功能1.信息收集(急需)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="78961159f06e98e8-17" vertex="1">
           <mxGeometry y="26" width="230" height="26" as="geometry" />
         </mxCell>
         <mxCell id="78961159f06e98e8-23" value="功能2.监控失败、RRH离线告警查询" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="78961159f06e98e8-17" vertex="1">
@@ -36,7 +36,7 @@
         <mxCell id="78961159f06e98e8-69" value="数智无线-皮基站模块管理后台" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="120" y="160" width="190" height="193.5" as="geometry" />
         </mxCell>
-        <mxCell id="78961159f06e98e8-70" value="功能1.收集信息可查勘及导出" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="78961159f06e98e8-69" vertex="1">
+        <mxCell id="78961159f06e98e8-70" value="功能1.收集信息可查看及导出" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="78961159f06e98e8-69" vertex="1">
           <mxGeometry y="26" width="190" height="26" as="geometry" />
         </mxCell>
         <mxCell id="78961159f06e98e8-71" value="功能2.收集信息同步至皮基站网管" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="78961159f06e98e8-69" vertex="1">
@@ -96,7 +96,7 @@
         </mxCell>
         <mxCell id="Q_XaEy7pAVDn_dILjwYX-39" value="新装" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q_XaEy7pAVDn_dILjwYX-38">
           <mxGeometry x="0.0095" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Q_XaEy7pAVDn_dILjwYX-21" value="新装、回收" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -108,7 +108,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q_XaEy7pAVDn_dILjwYX-25" value="填写回收字段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="375" y="650" width="120" height="30" as="geometry" />
+          <mxGeometry x="389" y="650" width="91" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q_XaEy7pAVDn_dILjwYX-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q_XaEy7pAVDn_dILjwYX-27" target="Q_XaEy7pAVDn_dILjwYX-40">
           <mxGeometry relative="1" as="geometry" />
@@ -126,41 +126,62 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q_XaEy7pAVDn_dILjwYX-27" value="大功率/家庭级" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="540" width="80" height="80" as="geometry" />
+        <mxCell id="Q_XaEy7pAVDn_dILjwYX-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q_XaEy7pAVDn_dILjwYX-27" target="Q_XaEy7pAVDn_dILjwYX-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_XaEy7pAVDn_dILjwYX-56" value="手机伴侣" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q_XaEy7pAVDn_dILjwYX-55">
+          <mxGeometry x="0.0178" y="-2" relative="1" as="geometry">
+            <mxPoint x="18" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q_XaEy7pAVDn_dILjwYX-27" value="大功率&lt;br&gt;家庭级&lt;br&gt;手机伴侣" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="546" y="540" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q_XaEy7pAVDn_dILjwYX-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q_XaEy7pAVDn_dILjwYX-28" target="Q_XaEy7pAVDn_dILjwYX-50">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="435" y="990" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="850" y="720" />
-              <mxPoint x="435" y="720" />
+              <mxPoint x="743" y="721" />
+              <mxPoint x="435" y="721" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Q_XaEy7pAVDn_dILjwYX-28" value="填写家庭级字段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="560" width="120" height="40" as="geometry" />
+          <mxGeometry x="697" y="560" width="91" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q_XaEy7pAVDn_dILjwYX-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q_XaEy7pAVDn_dILjwYX-40" target="Q_XaEy7pAVDn_dILjwYX-50">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="435" y="990" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="620" y="720" />
+              <mxPoint x="584" y="683" />
+              <mxPoint x="584" y="720" />
               <mxPoint x="435" y="720" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Q_XaEy7pAVDn_dILjwYX-40" value="填写大功率字段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="650" width="120" height="30" as="geometry" />
+          <mxGeometry x="541.5" y="653" width="89" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q_XaEy7pAVDn_dILjwYX-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q_XaEy7pAVDn_dILjwYX-50" target="Q_XaEy7pAVDn_dILjwYX-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q_XaEy7pAVDn_dILjwYX-50" value="告知用户注意事项&lt;br&gt;用户电子签名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="375" y="751" width="120" height="40" as="geometry" />
+        <mxCell id="Q_XaEy7pAVDn_dILjwYX-50" value="告知用户注意事项&lt;br&gt;设备SN序号拍照&lt;br&gt;用户电子签名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="751" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="Q_XaEy7pAVDn_dILjwYX-51" value="提交" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="825" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_XaEy7pAVDn_dILjwYX-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q_XaEy7pAVDn_dILjwYX-54" target="Q_XaEy7pAVDn_dILjwYX-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="814" y="476" />
+              <mxPoint x="814" y="721" />
+              <mxPoint x="435" y="721" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q_XaEy7pAVDn_dILjwYX-54" value="填写手机伴侣字段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="691" y="456" width="103" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
