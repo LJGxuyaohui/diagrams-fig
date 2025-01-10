@@ -4,32 +4,71 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bn-PAsVRNdQ2YQQPWQiK-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;shape=flexArrow;" edge="1" parent="1" source="bn-PAsVRNdQ2YQQPWQiK-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="473.5999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bn-PAsVRNdQ2YQQPWQiK-5" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack_Storage_Unit_Small.svg;" vertex="1" parent="1">
-          <mxGeometry x="460" y="460" width="77.4" height="67.2" as="geometry" />
+          <mxGeometry x="450" y="440" width="77.4" height="67.2" as="geometry" />
         </mxCell>
         <mxCell id="bn-PAsVRNdQ2YQQPWQiK-6" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack.svg;" vertex="1" parent="1">
-          <mxGeometry x="80" y="170" width="88.2" height="178.8" as="geometry" />
-        </mxCell>
-        <mxCell id="bn-PAsVRNdQ2YQQPWQiK-7" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack_Storage_Unit_Small.svg;" vertex="1" parent="1">
-          <mxGeometry x="210" y="110" width="77.4" height="67.2" as="geometry" />
+          <mxGeometry x="50" y="190" width="88.2" height="178.8" as="geometry" />
         </mxCell>
         <mxCell id="bn-PAsVRNdQ2YQQPWQiK-8" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack_Storage_Unit_Small.svg;" vertex="1" parent="1">
           <mxGeometry x="230" y="-310" width="77.4" height="67.2" as="geometry" />
         </mxCell>
+        <mxCell id="bn-PAsVRNdQ2YQQPWQiK-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;shape=flexArrow;" edge="1" parent="1" source="bn-PAsVRNdQ2YQQPWQiK-9" target="bn-PAsVRNdQ2YQQPWQiK-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bn-PAsVRNdQ2YQQPWQiK-9" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack_Storage_Unit_Small.svg;" vertex="1" parent="1">
-          <mxGeometry x="390" y="60" width="77.4" height="67.2" as="geometry" />
+          <mxGeometry x="240" y="80" width="77.4" height="67.2" as="geometry" />
         </mxCell>
         <mxCell id="bn-PAsVRNdQ2YQQPWQiK-10" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack_Storage_Unit_Small.svg;" vertex="1" parent="1">
           <mxGeometry x="190" y="-297.2" width="77.4" height="67.2" as="geometry" />
         </mxCell>
+        <mxCell id="bn-PAsVRNdQ2YQQPWQiK-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;shape=flexArrow;entryX=0.011;entryY=0.101;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bn-PAsVRNdQ2YQQPWQiK-11" target="bn-PAsVRNdQ2YQQPWQiK-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bn-PAsVRNdQ2YQQPWQiK-11" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack_Storage_Unit_Small.svg;" vertex="1" parent="1">
-          <mxGeometry x="560" y="109.99999999999999" width="77.4" height="67.2" as="geometry" />
+          <mxGeometry x="480" y="83.21" width="70" height="60.78" as="geometry" />
+        </mxCell>
+        <mxCell id="bn-PAsVRNdQ2YQQPWQiK-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;shape=flexArrow;" edge="1" parent="1" source="bn-PAsVRNdQ2YQQPWQiK-12" target="bn-PAsVRNdQ2YQQPWQiK-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bn-PAsVRNdQ2YQQPWQiK-12" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack_Storage_Unit_Small.svg;" vertex="1" parent="1">
-          <mxGeometry x="229.99999999999997" y="410" width="77.4" height="67.2" as="geometry" />
+          <mxGeometry x="209.99999999999997" y="440" width="77.4" height="67.2" as="geometry" />
+        </mxCell>
+        <mxCell id="bn-PAsVRNdQ2YQQPWQiK-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;shape=flexArrow;" edge="1" parent="1" source="bn-PAsVRNdQ2YQQPWQiK-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="450" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="bn-PAsVRNdQ2YQQPWQiK-13" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack.svg;" vertex="1" parent="1">
-          <mxGeometry x="650" y="248.4" width="88.2" height="178.8" as="geometry" />
+          <mxGeometry x="860" y="221.2" width="88.2" height="178.8" as="geometry" />
+        </mxCell>
+        <mxCell id="bn-PAsVRNdQ2YQQPWQiK-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.039;entryY=0.506;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;shape=flexArrow;" edge="1" parent="1" source="bn-PAsVRNdQ2YQQPWQiK-9" target="bn-PAsVRNdQ2YQQPWQiK-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bn-PAsVRNdQ2YQQPWQiK-24" value="A1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="38" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bn-PAsVRNdQ2YQQPWQiK-25" value="A2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="468.7" y="38" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bn-PAsVRNdQ2YQQPWQiK-26" value="A4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="468.7" y="400" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bn-PAsVRNdQ2YQQPWQiK-27" value="A3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="400" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bn-PAsVRNdQ2YQQPWQiK-28" value="B1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="370" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bn-PAsVRNdQ2YQQPWQiK-29" value="B2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="884.1" y="410" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
