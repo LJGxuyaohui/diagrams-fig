@@ -1,9 +1,36 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="第 1 页" id="g6k50eAuuFk5ERPI-o4K">
-    <mxGraphModel>
+    <mxGraphModel dx="1114" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bn-PAsVRNdQ2YQQPWQiK-5" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack_Storage_Unit_Small.svg;" vertex="1" parent="1">
+          <mxGeometry x="460" y="460" width="77.4" height="67.2" as="geometry" />
+        </mxCell>
+        <mxCell id="bn-PAsVRNdQ2YQQPWQiK-6" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack.svg;" vertex="1" parent="1">
+          <mxGeometry x="80" y="170" width="88.2" height="178.8" as="geometry" />
+        </mxCell>
+        <mxCell id="bn-PAsVRNdQ2YQQPWQiK-7" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack_Storage_Unit_Small.svg;" vertex="1" parent="1">
+          <mxGeometry x="210" y="110" width="77.4" height="67.2" as="geometry" />
+        </mxCell>
+        <mxCell id="bn-PAsVRNdQ2YQQPWQiK-8" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack_Storage_Unit_Small.svg;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-310" width="77.4" height="67.2" as="geometry" />
+        </mxCell>
+        <mxCell id="bn-PAsVRNdQ2YQQPWQiK-9" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack_Storage_Unit_Small.svg;" vertex="1" parent="1">
+          <mxGeometry x="390" y="60" width="77.4" height="67.2" as="geometry" />
+        </mxCell>
+        <mxCell id="bn-PAsVRNdQ2YQQPWQiK-10" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack_Storage_Unit_Small.svg;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-297.2" width="77.4" height="67.2" as="geometry" />
+        </mxCell>
+        <mxCell id="bn-PAsVRNdQ2YQQPWQiK-11" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack_Storage_Unit_Small.svg;" vertex="1" parent="1">
+          <mxGeometry x="560" y="109.99999999999999" width="77.4" height="67.2" as="geometry" />
+        </mxCell>
+        <mxCell id="bn-PAsVRNdQ2YQQPWQiK-12" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack_Storage_Unit_Small.svg;" vertex="1" parent="1">
+          <mxGeometry x="229.99999999999997" y="410" width="77.4" height="67.2" as="geometry" />
+        </mxCell>
+        <mxCell id="bn-PAsVRNdQ2YQQPWQiK-13" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack.svg;" vertex="1" parent="1">
+          <mxGeometry x="650" y="248.4" width="88.2" height="178.8" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
